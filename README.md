@@ -9,7 +9,7 @@ This project contains a series of queries in response to requests for specific d
 - Simple Select Statements
 - Aliases
 - Calculated columns
-- Filtering (Like, In and Date) and Concatenation
+- Filtering (Like, In, and Date) and Concatenation
 - Sorting and limiting results to top N
 - Limits and pagination
 - SUM, AVG, MAX, MIN and Count
